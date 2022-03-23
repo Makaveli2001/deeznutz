@@ -1,2 +1,3 @@
 # deeznutz
-tutorial 
+
+this doc has been changed
